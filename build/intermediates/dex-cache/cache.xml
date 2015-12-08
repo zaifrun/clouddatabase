@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\makn\AndroidStudioProjects\course2016\clouddatabase\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\makn\AndroidStudioProjects\course2016\clouddatabase\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_20f50c42af7911e7f3a49c91c7d924a6cc910cf0.jar" />
+    </item>
+    <item
+        jar="C:\Users\makn\AndroidStudioProjects\course2016\clouddatabase\app\libs\Parse-1.9.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1b065010f3c9d441ede9078aca8eabcd1c81e647">
+        <dex dex="C:\Users\makn\AndroidStudioProjects\course2016\clouddatabase\app\build\intermediates\pre-dexed\debug\Parse-1.9.1_22226429b996eb1940831339c9d59ceca867c56c.jar" />
+    </item>
+    <item
+        jar="C:\Users\makn\AndroidStudioProjects\course2016\clouddatabase\app\libs\bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="C:\Users\makn\AndroidStudioProjects\course2016\clouddatabase\app\build\intermediates\pre-dexed\debug\bolts-android-1.2.0_06c5cfe15fcf85aeea07f850bd668d9e961c7ed3.jar" />
+    </item>
+    <item
+        jar="C:\Users\makn\android-sdks\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\makn\AndroidStudioProjects\course2016\clouddatabase\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_85a0919a9258501ff68494a7b220aee942b01292.jar" />
+    </item>
+    <item
+        jar="C:\Users\makn\AndroidStudioProjects\course2016\clouddatabase\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\makn\AndroidStudioProjects\course2016\clouddatabase\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_e6a3e9be3353a0474afca6f1b30abebf98f8477e.jar" />
+    </item>
+
+</items>
